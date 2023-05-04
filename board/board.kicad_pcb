@@ -287,7 +287,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bae3a36a-679f-4bbe-bf70-f5bf7a20ae63)
     )
-    (fp_text value "AP63200WU" (at 0 2.4 90) (layer "F.Fab")
+    (fp_text value "AP64060" (at 0 2.4 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ecb43e8-1d3e-45e4-a99d-6ceb962baaf7)
     )

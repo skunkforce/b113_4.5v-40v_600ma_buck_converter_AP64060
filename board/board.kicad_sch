@@ -489,13 +489,13 @@
 
 
   (no_connect (at 211.455 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 213.995 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 216.535 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 219.075 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 202.565 118.11) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 202.565 128.27) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 202.565 123.19) (uuid d87641ba-d0a7-4809-ad65-260176545601))
-  (no_connect (at 202.565 120.65) (uuid d87641ba-d0a7-4809-ad65-260176545601))
+  (no_connect (at 213.995 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545602))
+  (no_connect (at 216.535 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545603))
+  (no_connect (at 219.075 137.16) (uuid d87641ba-d0a7-4809-ad65-260176545604))
+  (no_connect (at 202.565 118.11) (uuid d87641ba-d0a7-4809-ad65-260176545605))
+  (no_connect (at 202.565 128.27) (uuid d87641ba-d0a7-4809-ad65-260176545606))
+  (no_connect (at 202.565 123.19) (uuid d87641ba-d0a7-4809-ad65-260176545607))
+  (no_connect (at 202.565 120.65) (uuid d87641ba-d0a7-4809-ad65-260176545608))
 
   (wire (pts (xy 151.13 127) (xy 162.56 127))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -726,7 +726,7 @@
       (reference "R2") (unit 1) (value "22.1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/767ce4c6-0e55-4543-92f0-34cb8237a544/60974b9f-e13d-4c20-98bd-2cf8588012e9"
-      (reference "U1") (unit 1) (value "AP63200WU") (footprint "Package_TO_SOT_SMD:TSOT-23-6")
+      (reference "U1") (unit 1) (value "AP64060") (footprint "Package_TO_SOT_SMD:TSOT-23-6")
     )
   )
 )
